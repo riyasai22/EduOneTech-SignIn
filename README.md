@@ -10,7 +10,8 @@ Simple React.js Sign In page with Firebase Authentication.
 ## Steps to Download
 - Download code from github and open it in code editor
 - In the terminal, run npm i command
-- Add in REACT_APP_API_KEY in .env file
+- Create a .env file and add in your firebase authentication API key in it.
+ (` REACT_APP_API_KEY = {YOUR API KEY} `)
 - Run npm start 
 
 - ### Register Account
