@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey:process.env.REACT_APP_API_KEY,
+    apiKey:AIzaSyAgBPN2XXmNvaerPDacsreRfsU9usXw6Es,
     authDomain: "react-authentication-e3a52.firebaseapp.com",
     projectId: "react-authentication-e3a52",
     storageBucket: "react-authentication-e3a52.appspot.com",
